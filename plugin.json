@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "instagram-agent",
+  "description": "Seventeen ChatGPT skills for Instagram: account strategy, recurring series, content experiments, visual identity, Reels, research, captions, carousels, stories, profile review, weekly planning, comments, replies, DMs, repurposing, audits, and natural editing. Includes six optional Python tools. Produces drafts for the user to publish.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Konstantin Davidenko",
+    "url": "https://www.instagram.com/joe_mort8123"
+  },
+  "homepage": "https://github.com/mortired/instagram-agent-skill",
+  "repository": "https://github.com/mortired/instagram-agent-skill",
+  "license": "MIT",
+  "keywords": [
+    "instagram",
+    "reels",
+    "content",
+    "writing",
+    "humanizer",
+    "social",
+    "marketing"
+  ]
+}
