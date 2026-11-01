@@ -59,7 +59,7 @@ and be willing to conclude something the user will not like:
 
 - **Hold at 3 seconds.** If the top and bottom differ here, it is the hook and
   nothing else, and everything downstream is a distraction.
-- **Hook formula.** Which ids from `im-reel/hooks.json` are in the top five?
+- **Hook formula.** Which ids from [im-reel/hooks.json](../im-reel/hooks.json) are in the top five?
 - **Format.** Reel, carousel, single image.
 - **Length.** Group into under 15s, 15 to 30s, 30 to 60s, over 60s.
 - **Theme.**
@@ -76,7 +76,7 @@ better than inventing one.
 **A reel that gets views and no follows is not a failed reel, it is a profile
 problem.** A reel that gets no views is a hook problem. Separate the two before
 recommending anything. If non-follower reach is high and follows per reach is
-low, stop rewriting hooks and go to `/im-profile`.
+low, stop rewriting hooks and go to [/im-profile](../im-profile/SKILL.md).
 
 ## Output
 
@@ -106,6 +106,6 @@ STOP: listicles.
 DO MORE: the ones with a cost you paid and a number attached.
 ```
 
-Then hand the conclusions to `/im-plan` so next week is built on the user's own
-evidence rather than on defaults, and to `/im-viral` so the swipe file gets
+Then hand the conclusions to [/im-plan](../im-plan/SKILL.md) so next week is built on the user's own
+evidence rather than on defaults, and to [/im-viral](../im-viral/SKILL.md) so the swipe file gets
 filtered to the formulas that work for this account specifically.

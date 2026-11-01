@@ -54,7 +54,7 @@ Each extract becomes one post and each post stands completely on its own. The
 viewer has not seen the source and never will. Never write "as I said in my
 latest video". The post is the thing.
 
-Assign a hook formula from `im-reel/hooks.json` to each and vary them. Five
+Assign a hook formula from [im-reel/hooks.json](../im-reel/hooks.json) to each and vary them. Five
 posts from one source with the same hook shape reads as a content mill, because
 it is one.
 
@@ -83,6 +83,6 @@ SUN  REEL      #5  Time Collapse     Six hours a week back, one deleted link
 Say "write Tuesday" and I will draft it.
 ```
 
-Then draft on request, one at a time, each through `/im-reel` and `/im-human`.
+Then draft on request, one at a time, each through [/im-reel](../im-reel/SKILL.md) and [/im-human](../im-human/SKILL.md).
 Do not dump four finished scripts at once. They will all sound the same and the
 user will shoot none of them.

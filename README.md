@@ -36,7 +36,7 @@ files, attach the relevant `voice.md`, `swipe.md`, `log.md` or `plan.md` instead
 The strategy, series, experiment and visual skills use the same folder for
 `strategy.md`, `series.md`, `experiments.md` and `visual.md` respectively.
 
-Then spend ten minutes on `templates/voice.md`. Copy it to
+Then spend ten minutes on [templates/voice.md](templates/voice.md). Copy it to
 `~/.chatgpt/instagram/voice.md` and fill it in, or send ChatGPT three of your own
 reels and say "write my voice.md from these". Every skill reads that file. It
 matters more here than on other platforms, because you have to say the words
@@ -46,28 +46,28 @@ out loud.
 
 | command | what it does |
 | --- | --- |
-| [`/im-strategy`](skills/im-strategy/SKILL.md) | Defines the audience, account promise, goals, content pillars, next action and success measures in `strategy.md`. |
-| [`/im-series`](skills/im-series/SKILL.md) | Builds recurring series with a repeatable structure, distinct episode ideas, stable IDs and continuity in `series.md`. |
-| [`/im-experiment`](skills/im-experiment/SKILL.md) | Plans and reviews focused content tests with defined variants, metrics, observation windows and decision rules in `experiments.md`. |
-| [`/im-visual`](skills/im-visual/SKILL.md) | Defines consistent colours, typography, covers, titles and Story templates in `visual.md`; creates assets when requested and tools are available. |
-| `/im-reel` | One idea into a Reel. Three hooks from [26 formulas](skills/im-reel/hooks.json), scored, then the script, the on-screen text and a timed beat sheet. |
-| `/im-viral` | Goes and finds what is working in your niche, ranks it by multiple over each account's own median, names the formula, writes the swipe file. |
-| `/im-caption` | The caption, linted. Shows you the 125 characters the feed actually shows before the tap. |
-| `/im-carousel` | Swipe posts. The cover that earns the swipe, slide copy, and the 1080x1350 files. |
-| `/im-story` | The daily story sequence, which sticker does which job, and the DM funnel that starts with them moving first. |
-| `/im-profile` | Scores your profile against a [12-part rubric](skills/im-profile/rubric.json) out of 100, then rewrites in fix-first order. |
-| `/im-plan` | The week. What to post, which format, when, and the 10 accounts to engage with. |
-| `/im-human` | The humanizer. Two scripts that actually run. See below. |
-| `/im-comment` | Comments on other people's posts. Nine types, picked by what the post actually is. Never "🔥🔥🔥". |
-| `/im-reply` | The thread under your own post. Sorts into keyword / lead / substance / question / support / noise, then writes in that order. |
-| `/im-dm` | The keyword delivery, the first message, the collab pitch, and the two follow-ups. Two. |
-| `/im-repurpose` | One video, podcast or newsletter into a week of reels and carousels that each stand alone. |
-| `/im-audit` | Post-mortem on what you already posted. Ranks by outlier multiple and sends per reach, not views. |
+| [/im-strategy](skills/im-strategy/SKILL.md) | Defines the audience, account promise, goals, content pillars, next action and success measures in `strategy.md`. |
+| [/im-series](skills/im-series/SKILL.md) | Builds recurring series with a repeatable structure, distinct episode ideas, stable IDs and continuity in `series.md`. |
+| [/im-experiment](skills/im-experiment/SKILL.md) | Plans and reviews focused content tests with defined variants, metrics, observation windows and decision rules in `experiments.md`. |
+| [/im-visual](skills/im-visual/SKILL.md) | Defines consistent colours, typography, covers, titles and Story templates in `visual.md`; creates assets when requested and tools are available. |
+| [/im-reel](skills/im-reel/SKILL.md) | One idea into a Reel. Three hooks from [26 formulas](skills/im-reel/hooks.json), scored, then the script, the on-screen text and a timed beat sheet. |
+| [/im-viral](skills/im-viral/SKILL.md) | Goes and finds what is working in your niche, ranks it by multiple over each account's own median, names the formula, writes the swipe file. |
+| [/im-caption](skills/im-caption/SKILL.md) | The caption, linted. Shows you the 125 characters the feed actually shows before the tap. |
+| [/im-carousel](skills/im-carousel/SKILL.md) | Swipe posts. The cover that earns the swipe, slide copy, and the 1080x1350 files. |
+| [/im-story](skills/im-story/SKILL.md) | The daily story sequence, which sticker does which job, and the DM funnel that starts with them moving first. |
+| [/im-profile](skills/im-profile/SKILL.md) | Scores your profile against a [12-part rubric](skills/im-profile/rubric.json) out of 100, then rewrites in fix-first order. |
+| [/im-plan](skills/im-plan/SKILL.md) | The week. What to post, which format, when, and the 10 accounts to engage with. |
+| [/im-human](skills/im-human/SKILL.md) | The humanizer. Two scripts that actually run. See below. |
+| [/im-comment](skills/im-comment/SKILL.md) | Comments on other people's posts. Nine types, picked by what the post actually is. Never "🔥🔥🔥". |
+| [/im-reply](skills/im-reply/SKILL.md) | The thread under your own post. Sorts into keyword / lead / substance / question / support / noise, then writes in that order. |
+| [/im-dm](skills/im-dm/SKILL.md) | The keyword delivery, the first message, the collab pitch, and the two follow-ups. Two. |
+| [/im-repurpose](skills/im-repurpose/SKILL.md) | One video, podcast or newsletter into a week of reels and carousels that each stand alone. |
+| [/im-audit](skills/im-audit/SKILL.md) | Post-mortem on what you already posted. Ranks by outlier multiple and sends per reach, not views. |
 
-Start with `/im-strategy` when the account needs a direction. `/im-series`
-develops recurring formats and `/im-visual` sets their appearance. `/im-plan`
+Start with [/im-strategy](skills/im-strategy/SKILL.md) when the account needs a direction. [/im-series](skills/im-series/SKILL.md)
+develops recurring formats and [/im-visual](skills/im-visual/SKILL.md) sets their appearance. [/im-plan](skills/im-plan/SKILL.md)
 uses those briefs to build the week; the existing writing skills produce the
-individual posts. `/im-audit` reviews results, and `/im-experiment` helps test
+individual posts. [/im-audit](skills/im-audit/SKILL.md) reviews results, and [/im-experiment](skills/im-experiment/SKILL.md) helps test
 an uncertain finding. Each skill can also be used independently with the
 context supplied in the chat. The four new skills require no Python scripts.
 
@@ -266,7 +266,7 @@ Spoken hooks say their numbers out loud.
 If you re-run this on a bigger or cleaner corpus and get a different answer, I
 would rather know. The measurement script is not in the repo because it depends
 on `yt-dlp`, but the method is four lines and is written out in
-[`/im-viral`](skills/im-viral/SKILL.md).
+[/im-viral](skills/im-viral/SKILL.md).
 
 ## The fine print, which is the honest part
 
@@ -282,9 +282,9 @@ the design, and it is why the approval gate is real rather than a setting.
 
 The one exception is keyword auto-replies in DMs, which Instagram supports
 through its own tools and approved partners, and which only fire after somebody
-comments first. `/im-dm` says where that line is.
+comments first. [/im-dm](skills/im-dm/SKILL.md) says where that line is.
 
-**`/im-viral` reads, it does not scrape.** Ten accounts, a dozen reels each, at
+**[/im-viral](skills/im-viral/SKILL.md) reads, it does not scrape.** Ten accounts, a dozen reels each, at
 human speed, with you driving your own browser. It never asks for your password
 and never logs in as you. Automated collection at volume is the thing that gets
 accounts restricted, and a crawler is not what this is.
@@ -313,19 +313,18 @@ doing when you read it, Instagram is right.
 
 ## Files
 
-```
-skills/im-reel/hooks.json          26 hook formulas: template, example, on-screen line,
-                                   what it is for, how it gets ruined, and a match regex
-skills/im-reel/hookscore.py        the five-property hook panel
-skills/im-reel/beats.py            script to timed beat sheet
-skills/im-caption/caption.py       the truncation preview and the caption linter
-skills/im-human/slop.json          the lexicon: 154 terms, 18 invisible classes, 16 tells
-skills/im-human/humanize.py        the three cleaning passes
-skills/im-human/detect.py          the five-check panel
-skills/im-viral/swipe.py           outlier ranking and formula classification
-skills/im-profile/rubric.json      the 100-point profile score
-templates/voice.md                 your voice profile. Fill this in first.
-```
+| file | what it contains |
+| --- | --- |
+| [skills/im-reel/hooks.json](skills/im-reel/hooks.json) | 26 hook formulas: template, example, on-screen line, what it is for, how it gets ruined, and a match regex. |
+| [skills/im-reel/hookscore.py](skills/im-reel/hookscore.py) | The five-property hook panel. |
+| [skills/im-reel/beats.py](skills/im-reel/beats.py) | Script to timed beat sheet. |
+| [skills/im-caption/caption.py](skills/im-caption/caption.py) | The truncation preview and the caption linter. |
+| [skills/im-human/slop.json](skills/im-human/slop.json) | The lexicon: 154 terms, 18 invisible classes, 16 tells. |
+| [skills/im-human/humanize.py](skills/im-human/humanize.py) | The three cleaning passes. |
+| [skills/im-human/detect.py](skills/im-human/detect.py) | The five-check panel. |
+| [skills/im-viral/swipe.py](skills/im-viral/swipe.py) | Outlier ranking and formula classification. |
+| [skills/im-profile/rubric.json](skills/im-profile/rubric.json) | The 100-point profile score. |
+| [templates/voice.md](templates/voice.md) | Your voice profile. Fill this in first. |
 
 ## Credit
 

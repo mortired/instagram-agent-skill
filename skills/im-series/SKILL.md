@@ -81,6 +81,9 @@ user to save. Do not claim persistence across chats without an accessible file.
 
 ## Handoff
 
+For posts extracted from one existing long asset, use
+[im-repurpose](../im-repurpose/SKILL.md).
+
 Give [im-plan](../im-plan/SKILL.md) the cadence and next episode IDs. Send an
 episode brief to [im-reel](../im-reel/SKILL.md),
 [im-carousel](../im-carousel/SKILL.md) or [im-story](../im-story/SKILL.md) for

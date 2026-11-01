@@ -53,7 +53,7 @@ ask should be seen by the people who are still there.
 
 The question box is the most undervalued one in the list. Every answer is a
 caption, a Reel hook or a DM opener written in the audience's own words. Feed
-them to `/im-reel` as formula #16.
+them to [/im-reel](../im-reel/SKILL.md) as formula #16.
 
 ## Rules
 

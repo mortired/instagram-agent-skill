@@ -116,7 +116,7 @@ python3 swipe.py captured.tsv --out ~/.chatgpt/instagram/swipe.md
 ```
 
 It computes the outlier multiple, names the hook formula using the same 26
-formulas `/im-reel` writes from, scores each hook with `hookscore.py`, and
+formulas [/im-reel](../im-reel/SKILL.md) writes from, scores each hook with `hookscore.py`, and
 prints what separates the top third from the bottom third.
 
 ## Step 4: say what it means, carefully
@@ -141,7 +141,7 @@ difference between research and horoscopes.
 ## Step 5: turn it into something to shoot
 
 For the top three formulas, write **the user's version**: their own story,
-their own number, in the shape that is working. Hand each one to `/im-reel`
+their own number, in the shape that is working. Hand each one to [/im-reel](../im-reel/SKILL.md)
 with the formula id already chosen.
 
 Never hand back "make a reel like this one". Hand back a hook line they could
@@ -171,8 +171,8 @@ YOUR VERSION
   ...
 ```
 
-Write the swipe file to `~/.chatgpt/instagram/swipe.md`. `/im-reel` and
-`/im-plan` both read it, which is the point: after this runs once, the rest of
+Write the swipe file to `~/.chatgpt/instagram/swipe.md`. [/im-reel](../im-reel/SKILL.md) and
+[/im-plan](../im-plan/SKILL.md) both read it, which is the point: after this runs once, the rest of
 the pack is working from the user's own evidence instead of from defaults.
 
 Nothing is posted, followed, liked or messaged by this skill. It reads.

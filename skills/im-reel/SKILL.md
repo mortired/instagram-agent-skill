@@ -43,7 +43,7 @@ replacing the variant with the highest-scoring hook.
 3. If the idea is thin, do not pad it. Ask one batched question: what happened,
    to whom, and what did it cost or return. A Reel needs one specific true
    thing. Get it before writing.
-4. If `~/.chatgpt/instagram/swipe.md` exists, read it. `/im-viral` writes that
+4. If `~/.chatgpt/instagram/swipe.md` exists, read it. [/im-viral](../im-viral/SKILL.md) writes that
    file, and it is the user's own evidence about which formulas are working in
    their niche right now. It beats the defaults in this file.
 
@@ -82,7 +82,7 @@ rehearse.
 a hook past 3 seconds, any beat over 4 seconds, a run of beats with nothing
 concrete in them, no loop. Re-run until it is clean.
 
-**5. Humanize it.** Run the script through `/im-human` before showing it. A
+**5. Humanize it.** Run the script through [/im-human](../im-human/SKILL.md) before showing it. A
 written-sounding line is obvious the moment someone says it out loud.
 
 **6. Print the block.** The script in a fenced block, the on-screen text as a
@@ -99,9 +99,11 @@ caption:    run /im-caption next
 Reply "yes" to log it, or tell me what to change.
 ```
 
+Use [im-caption](../im-caption/SKILL.md) for the caption mentioned in the block.
+
 **7. Never publish.** This skill produces a script. The user shoots it and
 posts it. On "yes", append to `~/.chatgpt/instagram/log.md` with the date, the
-hook formula used and the first line, so `/im-audit` has a history later.
+hook formula used and the first line, so [/im-audit](../im-audit/SKILL.md) has a history later.
 
 ## On-screen text is a separate script
 

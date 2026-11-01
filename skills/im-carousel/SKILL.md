@@ -24,7 +24,7 @@ framework with parts, a before and after, a list worth screenshotting. Use a
 Reel when the idea has motion, a face, or a payoff that has to be seen
 happening.
 
-If the idea is one claim, it is neither. Hand it to `/im-reel` and say so.
+If the idea is one claim, it is neither. Hand it to [/im-reel](../im-reel/SKILL.md) and say so.
 
 ## Structure
 
@@ -86,10 +86,10 @@ not invent a palette.
 
 The slide-by-slide copy first, as a numbered list the user can read in ten
 seconds and edit before anything is rendered. Then the **caption**, which for a
-carousel is Job B in `/im-caption`: the caption is doing work here, because the
+carousel is Job B in [/im-caption](../im-caption/SKILL.md): the caption is doing work here, because the
 cover has already used its six words.
 
-Run both through `/im-human`. Build the files only after the user approves the
+Run both through [/im-human](../im-human/SKILL.md). Build the files only after the user approves the
 copy.
 
 ```

@@ -15,7 +15,7 @@ executed. Run it once a week, on the same day.
 ## Input
 
 If `~/.chatgpt/instagram/voice.md`, `swipe.md` and `log.md` exist, read them.
-The swipe file is the user's own evidence from `/im-viral` about which formulas
+The swipe file is the user's own evidence from [/im-viral](../im-viral/SKILL.md) about which formulas
 are landing in their niche right now, and it outranks anything in this file.
 The log stops the plan repeating a theme from the last fortnight.
 
@@ -54,7 +54,7 @@ Mix across the week, never two of the same type back to back:
 | **Offer** | 1 per fortnight | what you sell, said plainly, no apology. Carousel or stories. |
 
 For each slot give: the theme, the specific angle from what actually happened
-this week, the format, and the hook formula number from `im-reel/hooks.json`.
+this week, the format, and the hook formula number from [im-reel/hooks.json](../im-reel/hooks.json).
 Not a topic, an angle. "AI" is not a plan. "The proposal we lost because the
 draft had an em dash in it" is a Reel.
 
@@ -81,7 +81,7 @@ Anchor times to the audience's timezone, not the user's, if those differ.
 - **2 buyers** - people who could actually buy. Comment for weeks before any
   DM, and never pitch in a comment.
 
-Hand the list to `/im-comment`.
+Hand the list to [/im-comment](../im-comment/SKILL.md).
 
 ## Output
 
